@@ -43,7 +43,7 @@ public class ControlFlow {
                 System.out.println("Saturday");
                 break;
             default:
-                break;
+                System.out.println("Invalid");
         }
         System.out.println("For loop");
         for(int j=1;j<=num;j++)
